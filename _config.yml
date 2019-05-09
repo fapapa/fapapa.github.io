@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.fabiopapa.dev" # the base hostname & protocol for your site, e.g. http://example.com
 gitlab_username:  fapapa
 github_username:  fapapa
-linkedin_profile:  https://www.linkedin.com/in/fabio-papa-dev
+linkedin_username:  fabio-papa-dev
 
 # Build settings
 markdown: kramdown
