@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fabio Papa – Back-end Ruby on Rails web developer
+title: Fabio Papa – Ruby on Rails developer
 email: me@fabiopapa.dev
 description: >- # this means to ignore newlines until "baseurl:"
 
