@@ -2,6 +2,7 @@
 layout: page
 title: Résumé
 permalink: /resume/
+id: resume
 ---
 
 # ruby and rails work experience
