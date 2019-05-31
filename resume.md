@@ -18,7 +18,9 @@ id: resume
 * Written for family business in spare time
 
 # education & accreditation
-
+## Hebrew University of Jerusalem; Coursera — Build a Modern Computer from First Principles: From Nand to Tetris Part I, 2019
+## Hebrew University of Jerusalem; Coursera — Build a Modern Computer from First Principles: From Nand to Tetris Part II, 2019
+## Centennial High School; Coquitlam, BC — High School Diploma, 1995
 
 # relevant skills
 
