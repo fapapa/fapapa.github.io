@@ -24,7 +24,26 @@ id: resume
 ## Centennial High School; Coquitlam, BC — High School Diploma, 1995
 
 # relevant skills
-
+* Experience working with Ruby on Rails since pre-1.0 beta
+* Well-versed in Git and associated tools
+* Docker for RoR development and deployment
+* Experience deploying to AWS, DigitalOcean
+* Test-driven design, behaviour-driven design
+* Comfortable in command-line/terminal
+* Good understanding of web request/response life-cycle, in particular how it
+  relates to RoR
+* At home in HTML/CSS/Javascript
+* Experience with CSS/JavaScript frameworks
+* Comfortable setting up domains, DNS records, etc.
+* SQL (various)
+* RSpec
+* Cucumber
+* Capybara
+* FactoryBot
+* TimeCop
+* Gem
+* Bundler
+* Fluent in Italian
 
 # other work experience
 
