@@ -82,4 +82,5 @@ loyalty
 * Sold IT hardware, software and services to end-user business clients
 
 # references
-
+References omitted to respect their privacy; please contact me at **{{
+site.email }}** for a pdf copy of this page that includes reference details.
