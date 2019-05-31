@@ -1,7 +1,23 @@
 #resume {
+  h1, h2 { margin-bottom: 0; }
   h1 {
     font-family: ConcourseRegular;
     font-size: 16px;
     color: $brand-color;
+  }
+  h2 { font-size: 19px; }
+  ul {
+    font-size: 17px;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 27px;
+    text-indent: -27px;
+    padding-right: 6em;
+    li:before {
+      font-size: 21px;
+      line-height: 1.2;
+      padding-right: 15px;
+      content: "\2605";
+    }
   }
 }
