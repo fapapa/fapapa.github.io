@@ -17,9 +17,8 @@ title: Fabio Papa – Ruby on Rails developer
 email: "me -AT- fabiopapa -DOT- dev"
 description: >- # this means to ignore newlines until "baseurl:"
   Organized, independent, self-motivated developer with 16 years of *Ruby on
-  Rails* experience. Passion for communicating succinctly and precisely are at
-  the root of Fabio's ability to work well with the team toward a common
-  objective.
+  Rails* experience. Passion for communicating succinctly and precisely is at
+  the root of Fabio's ability to work well with teams toward a common objective.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.fabiopapa.dev" # the base hostname & protocol for your site, e.g. http://example.com
