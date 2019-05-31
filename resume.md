@@ -46,7 +46,40 @@ id: resume
 * Fluent in Italian
 
 # other work experience
+## Owner/Franchisee, Mr. Pretzels; Vancouver, BC — 2016–2019
+* Owned and operated three franchise locations in high-traffic malls
+* Researched, chose and managed POS equipment and software, digital signage
+* Wrote an iOS shortcut that used an external API to calculate number of
+pretzels needed for remainder of day to avoid shortages and waste
+* Hired and managed employees, building a customer-centric culture
 
+## Procurement Specialist, Long View Systems; Vancouver, BC — 2015–2017
+* Member of Cisco Hardware, and General Procurement teams
+* Collaborated with Account Managers, Project Managers, Consultants,
+manufacturers, logistics and more to provide timely sales support
+* Leveraged pricing programs, on-line technical resources and manufacturer
+  experts to solve customers’ business problems
+
+## Inside Sales Rep., Metafore Technologies; Richmond, BC — 2010–2015
+* Very similar job as above, at Long View Systems
+* Acted as a Subject Matter Expert and Trainer for company-wide, multi-year CRM
+  deployment (to MS Dynamics AX)
+
+## Owner/Consultant, Leone Image & Design; Vancouver, BC — 2002–2010
+* Acted as IT person for small businesses
+* Performed routine maintenance
+* On-call for emergency problems
+* Diagnosed and fixed a variety of customer issues including networking
+problems, malware, hardware failure, etc.
+* Consulted on hardware and software upgrades
+
+## Inside Sales Rep., Merisel Canada; Richmond, BC — 1998–2001
+* Sold hardware to a variety of reseller customers by building relationships and
+loyalty
+* Won several sales incentive trips by exceeding targets
+
+## Corporate Account Manager, Computer City; Coquitlam, BC — 1995–1998
+* Sold IT hardware, software and services to end-user business clients
 
 # references
 
