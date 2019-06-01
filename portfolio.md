@@ -2,6 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
+id: portfolio
 ---
 The following is a sampling of some of the software projects I have created (or
 contributed to).

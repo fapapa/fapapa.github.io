@@ -31,6 +31,55 @@
   }
 }
 
+#portfolio {
+  & > ul {
+    margin-left: 0;
+    padding-left: 0;
+    list-style-type: none;
+    & > li {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-template-areas:
+	"title"
+	"description"
+        "screenshot"
+        "contrib-head"
+        "contrib-list"
+        "source";
+      & + li { margin-top: 30px; }
+      h2 {
+	grid-area: title;
+	margin-bottom: 5px;
+	font-size: 19px;
+      }
+      img { grid-area: screenshot; }
+      .description { grid-area: description; }
+      h3 {
+	grid-area: contrib-head;
+        font: 16px ConcourseRegular;
+	font-weight: bold;
+	margin-bottom: 0;
+      }
+      ul {
+	grid-area: contrib-list;
+	list-style-type: none;
+	margin-bottom: 10px;
+	margin-left: 0;
+	padding-left: 27px;
+	text-indent: -27px;
+	li:before {
+	  font-size: 21px;
+	  color: $grey-color;
+	  line-height: 1.2;
+	  padding-right: 15px;
+	  content: "\2605";
+	}
+      }
+      .source { grid-area: source; }
+    }
+  }
+}
+
 @media screen and (min-width: 600px) {
   #resume > ul {
     padding-right: 6em;
