@@ -84,4 +84,14 @@
   #resume > ul {
     padding-right: 6em;
   }
+  #portfolio > ul > li {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "title title"
+      "screenshot description"
+      "screenshot contrib-head"
+      "screenshot contrib-list"
+      "screenshot source";
+    .description { padding-top: 7px; }
+  }
 }
