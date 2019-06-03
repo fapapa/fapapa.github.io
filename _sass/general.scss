@@ -97,5 +97,8 @@
       "screenshot contrib-list"
       "screenshot source";
     .description { padding-top: 7px; }
+    .description, h3, ul, .source {
+      margin-left: 10px;
+    }
   }
 }
