@@ -25,9 +25,8 @@ contributed to).
 	<li>DevOps/deployment/maintenance</li>
 </ul>
 <p class="source">
-  <strong>Source:</strong> <a href="https://gitlab.com/fapapa/catering-menus">
-  https://gitlab.com/fapapa/catering-menus </a> (private repo; send me an email
-  and I can grant access on a case-by-case basis.)
+<a href="https://gitlab.com/fapapa/catering-menus">source</a>
+(private repo; send me an email and I can grant access on a case-by-case basis.)
 </p>
 </li>
 </ul>
@@ -64,9 +63,11 @@ converted to assembly" src="/assets/hack_assembler-screenshot.png"/>
 <li>100% grade</li>
 </ul>
 
-<p class="source"><strong>source:</strong><a
-href="https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/06">
-https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/06</a></p>
+<p class="source">
+  <a href="https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/06">
+  source
+  </a>
+</p>
 
 </li>
 <li>
