@@ -62,23 +62,44 @@ converted to assembly" src="/assets/hack_assembler-screenshot.png"/>
 <li>Wrote a <strong>Ruby implementation</strong> of the Hack assembler</li>
 <li>100% grade</li>
 </ul>
-
 <p class="source">
   <a href="https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/06">
   source
   </a>
 </p>
-
 </li>
+
 <li>
-<h2 class="project">Jack VM to assembly compiler</h2>
-<img alt="" src=""/>
-<p class="description"></p>
-<h3></h3>
+<h2 class="project">VM Translator</h2>
+<img alt="Two files side-by-side: a VM file and the same file after being converted to assembly"
+src="/assets/vm_translator-screenshot.png"/>
+<p class="description">
+
+  A VM Translator is a program that translates programs written in a VM language
+  into programs written in an assembly language. VM languages provide a level of
+  abstraction above assembly languages. So, whereas assembly languages are a
+  symbolic representation of the instructions being sent to the CPU, VM
+  languages allow the programmer to think more abstractly; usually (and in this
+  case), that abstraction is a stack machine. The commands allow the programmer
+  to push data onto and pop data off of a virtual stack, instead of having to
+  deal with memory directly. This level of abstraction is still not feasible to
+  write large programs in. So why have the VM layer at all? VMs afford a level
+  of flexibility that would otherwise not be possible. As an example, JRuby and
+  Java can both be compiled into JVM, which can in turn be tranlated to work on
+  multiple different architectures/CPUs. Instead of needing one compiler per
+  language per architecture, you need only one compiler per language, and then
+  one VM translator per architecture. So if there are 10 languages and five
+  architechtures, without a VM intermediary you would need 50 compilers (5
+  &times; 10); with a VM language you would need only 10 compilers and five VM
+  translators (5 + 10).
+
+</p>
+<h3>My contributions</h3>
 <ul>
-<li></li>
+<li> Wrote a <strong>Ruby implementation</strong> of the VM translator</li>
+<li>100% grade</li>
 </ul>
-<p class="source"></p>
+<p class="source"><a href="https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/08">source</a></p>
 </li>
 <li>
 <h2 class="project">Jack high-level language to VM compiler</h2>
