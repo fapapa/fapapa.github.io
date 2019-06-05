@@ -101,15 +101,32 @@ src="/assets/vm_translator-screenshot.png"/>
 </ul>
 <p class="source"><a href="https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/08">source</a></p>
 </li>
+
 <li>
-<h2 class="project">Jack high-level language to VM compiler</h2>
-<img alt="" src=""/>
-<p class="description"></p>
-<h3></h3>
+<h2 class="project">Jack Compiler</h2>
+<img alt="Two files side-by-side: an object-oriented Jack file, next to its output after being compiled"
+src="/assets/jack_compiler-screenshot.png"/>
+<p class="description">
+
+  A compiler takes some code in a high-level language and converts it into code
+  in a lower-level language. In this case, it converts code in Jack to code in
+  the VM language discussed above. This process is broken down into two broad
+  steps: <em>syntax analysis</em> and <em>code generation</em>. Syntax analysis
+  involves turning the high-level code into a stream of tokens and parsing that
+  stream into a tree structure using the grammatical rules defined by the
+  high-level language. Code generation uses the semantic meaning derived from
+  the syntax analysis and generates code with the same meaning, but in the
+  lower-level language.
+
+</p>
+<h3>My contributions</h3>
 <ul>
-<li></li>
+<li>Wrote a <strong>Ruby implementation</strong> of the compiler</li>
+<li>100% grade</li>
 </ul>
-<p class="source"></p>
+<p class="source">
+<a href="https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/11">source</a>
+</p>
 </li>
 </ul>
 
