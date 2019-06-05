@@ -131,4 +131,40 @@ src="/assets/jack_compiler-screenshot.png"/>
 </ul>
 
 # Other projects
-* JackDoku game (written in Jack)
+<ul>
+<li>
+<h2 class="project">JackDoku (Sudoku game built in Jack language)</h2>
+<img alt="" src="/assets/jackdoku_game_in_progress.jpg"/>
+<p class="description">
+
+  In the <a href="https://www.coursera.org/learn/build-a-computer"
+  title="Build a Modern Computer from First Principles: From Nand to Tetris">
+  Nand2Tetris course</a> we build a computer from the bottom up, from a simple
+  NAND gate, to a computer architechture, to machine code, a virtual machine,
+  a programming language, an operating system, and the culmination is an
+  object-oriented application of our choosing. For this project I chose to build
+  a simple Sudoku game. The code is anything but simple though. While the OS
+  does provide some libraries for manipulating the screen, the libraries limit
+  you to writing 16&times;16 pixel sprites at pre-determined locations on the
+  screen. Using this library would have meant using just a little over half the
+  height of the screen; the game would have looked small and awkward. In order
+  to make my sudoku grid take up as much of the screen as possible, I had to
+  engineer a way to write an arbitrarily-sized sprite starting at any given
+  pixel on the screen. This was a challenging task, but it was gratifying to not
+  only figure out the details of the solution, but to also wrap those details in
+  a layer of abstraction that made it easy to use in my game.
+
+</p>
+<h3>My contributions</h3>
+<ul>
+<li>Wrote the game from nothing</li>
+<li>Wrote a low-level library to write any sprite to any location on the
+screen</li>
+<li>Used binary math, logical operators and bit-shifting to manipulate graphics
+on the screen</li>
+</ul>
+<p class="source">
+<a href="https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/09/JackDoku">source</a>
+</p>
+</li>
+</ul>
