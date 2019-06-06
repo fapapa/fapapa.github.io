@@ -32,7 +32,32 @@ contributed to).
 </ul>
 
 # Ruby on Rails contributions
-* Contributions to GitLab
+<ul>
+<li>
+<h2 class="project">
+  GitLab - merge request <a
+  href="https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/25942"> !25942
+  </a>
+</h2>
+<img alt="Conversation on GitLab showing my contribution"
+     src="/assets/mr_!25942-screenshot.png"/>
+<p class="description">
+
+  My first contribution to <em>GitLab</em>! Simply a matter of deleting some
+  unnecessary lines and updating the unit tests. I wanted to get a flavour for
+  installing GDK and stepping through the workflow of squashing bugs and adding
+  features.
+
+</p>
+<p class="source">
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/issues/50386">issue</a>
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/25942">
+  merge request</a>
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/commit/60713c1fc6c6513246dd066b2e71d2bfd28c8e3a">
+  commit</a>
+</p>
+</li>
+</ul>
 
 # Ruby projects
 <ul>
