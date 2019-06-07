@@ -9,7 +9,28 @@ contributed to).
 
 # Ruby on Rails projects
 <ul>
-<li>Old catering app</li>
+<li>
+<h2 class="project">Catering Event Manager</h2>
+<img alt="Catrr: a catering event manager" src="/assets/catrr_quote-screenshot.png"/>
+<p class="description">
+
+  This is a partially-built commercial rails application for caterers who want
+  an easy way to manage and track all of their events, provide quotes to
+  customers, etc. I worked on this in my spare time for fun, but never got it to
+  a point where I felt comfortable releasing it. I learned a valuable lesson
+  about how to prioritize what's actually important to get a viable app deployed
+  and <em>in the wild</em> instead of getting everything perfect.
+
+</p>
+<h3>My contributions</h3>
+<ul>
+  <li>Full-stack development</li>
+  <li>Behaviour-driven design using Cucumber and rSpec</li>
+</ul>
+<p class="source">
+<a href="https://github.com/fapapa/em1.git">source</a>
+</p>
+</li>
 <li>
 <h2 class="project">Catering Manager (Orlando's Catering)</h2>
 <img alt="Catering Manager app screenshot" src="/assets/catering_manager-screenshot.png"/>
