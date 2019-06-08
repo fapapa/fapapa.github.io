@@ -28,7 +28,7 @@ contributed to).
   <li>Behaviour-driven design using Cucumber and rSpec</li>
 </ul>
 <p class="source">
-<a href="https://github.com/fapapa/em1.git">source</a>
+<a href="https://github.com/fapapa/em1/tree/original_version">source</a>
 </p>
 </li>
 <li>
