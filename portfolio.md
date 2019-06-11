@@ -29,6 +29,7 @@ contributed to).
 </ul>
 <p class="source">
 <a href="https://github.com/fapapa/em1/tree/original_version">source</a>
+(private repo; send me an email and I can grant access on a case-by-case basis.)
 </p>
 </li>
 <li>
