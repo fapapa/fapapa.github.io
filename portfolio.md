@@ -8,6 +8,7 @@ The following is a sampling of some of the software projects I have created (or
 contributed to).
 
 # Ruby on Rails projects
+
 <ul>
 <li>
 <h2 class="project">Catering Event Manager</h2>
@@ -54,6 +55,7 @@ contributed to).
 </ul>
 
 # Ruby on Rails contributions
+
 <ul>
 <li>
 <h2 class="project">
@@ -105,6 +107,7 @@ contributed to).
 </ul>
 
 # Ruby projects
+
 <ul>
 <li>
 <h2 class="project">Hack assembler</h2>
@@ -201,6 +204,7 @@ src="/assets/jack_compiler-screenshot.png"/>
 </ul>
 
 # Other projects
+
 <ul>
 <li>
 <h2 class="project">JackDoku (Sudoku game built in Jack language)</h2>
