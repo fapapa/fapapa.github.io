@@ -79,6 +79,29 @@ contributed to).
   commit</a>
 </p>
 </li>
+<li>
+<h2 class="project">
+  GitLab - merge request <a
+  href="https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/29511"> !29511
+  </a>
+</h2>
+<img alt="Conversation on GitLab showing my contribution"
+     src="/assets/mr_!29511-screenshot.png"/>
+<p class="description">
+
+  I fixed an issue where, when pushing a repository to a new and default branch,
+  the commit messages would not get processed for issue references, which was
+  stopping some users of competitive products from switching to GitLab.
+
+</p>
+<p class="source">
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/issues/56683">issue</a>
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/29511">
+  merge request</a>
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/commit/0c4059efc146c869d3ffd1bc075c67c8b4ae921d">
+  commit</a>
+</p>
+</li>
 </ul>
 
 # Ruby projects
