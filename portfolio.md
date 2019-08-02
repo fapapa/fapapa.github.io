@@ -8,6 +8,7 @@ The following is a sampling of some of the software projects I have created (or
 contributed to).
 
 # Ruby on Rails projects
+
 <ul>
 <li>
 <h2 class="project">Catering Event Manager</h2>
@@ -54,7 +55,32 @@ contributed to).
 </ul>
 
 # Ruby on Rails contributions
+
 <ul>
+<li>
+<h2 class="project">
+  GitLab - merge request <a
+  href="https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/29718"> !29718
+  </a>
+</h2>
+<img alt="Conversation on GitLab showing my contribution"
+     src="/assets/mr_!29718-screenshot.png"/>
+<p class="description">
+
+  GitLab is an open-source dev-ops toolchain for developers. In this
+  contribution I added a requested feature that adds a preference to allow
+  maintainers to create subgroups, instead of having to ask the owner of the
+  group to create the subgroup, giving developers the option to be more agile.
+
+</p>
+<p class="source">
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/issues/51610">issue</a>
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/29718">
+  merge request</a>
+  <a href="https://gitlab.com/gitlab-org/gitlab-ce/commit/e48851de62086b65c75a3dd802743e722d5d7be8">
+  commit</a>
+</p>
+</li>
 <li>
 <h2 class="project">
   GitLab - merge request <a
@@ -105,6 +131,7 @@ contributed to).
 </ul>
 
 # Ruby projects
+
 <ul>
 <li>
 <h2 class="project">Hack assembler</h2>
@@ -201,6 +228,7 @@ src="/assets/jack_compiler-screenshot.png"/>
 </ul>
 
 # Other projects
+
 <ul>
 <li>
 <h2 class="project">JackDoku (Sudoku game built in Jack language)</h2>
