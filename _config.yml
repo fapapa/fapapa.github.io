@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fabio Papa – Ruby on Rails developer
+title: Fabio Papa – Full-Stack Web Developer
 email: "me -AT- fabiopapa -DOT- dev"
 description: >- # this means to ignore newlines until "baseurl:"
   Organized, independent, self-motivated developer with 16 years of *Ruby on
-  Rails* experience. Passion for communicating succinctly and precisely is at
-  the root of Fabio's ability to work well with teams toward a common objective.
+  Rails* and front-end programming experience. Passion for communicating
+  succinctly and precisely is at the root of Fabio's ability to work well with
+  teams toward a common objective.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.fabiopapa.dev" # the base hostname & protocol for your site, e.g. http://example.com
