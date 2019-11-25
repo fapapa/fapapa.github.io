@@ -7,13 +7,13 @@ id: resume
 
 ## Summary
 
-I caught the software programming bug in 2003 and have been coding every chance
-I get ever since. I am a full-stack web developer with a particular passion for
-back-end and Javascript frameworks. My projects are live today, being used to
-solve real-world business problems. I subscribe to the old adage, "Find
-something you love to do and you will never work a day in your life," and feel
-blessed to have found "that something." My mind and temperment are well-suited
-for logically working through problems and coming up with elegant solutions.
+I caught the software programming bug in 2003 and have been coding ever since. I
+am a full-stack web developer with a particular passion for Rails and React. My
+projects are live today, being used to solve real-world business problems. I
+subscribe to the old adage, "Find something you love to do and you will never
+work a day in your life," and feel blessed to have found "that something." My
+mind and temperment are well-suited for logically working through problems and
+coming up with elegant solutions.
 
 ## Skills
 
