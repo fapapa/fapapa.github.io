@@ -21,13 +21,13 @@ coming up with elegant solutions.
 
 Ruby, Javascript, HTML, CSS
 
-### Frameworks, libraries and environments
+### Frameworks, Libraries and Environments
 
 Rails, NodeJS, React, Ajax, Axios, Express, EJS, JQuery, Bootstrap,
 ActiveRecord, SASS, Docker, good understanding of HTTP request/response
 lifecycle, REST, WebSockets
 
-### Systems, CMS && databases
+### Systems, CMS && Databases
 
 SQL (various dialects), Git, GitFlow, Subversion, AWS, DigitalOcean, Heroku,
 Gem, Bundler, NPM, Yarn, Webpack, comfortable setting up domains and DNS records
@@ -37,12 +37,11 @@ Gem, Bundler, NPM, Yarn, Webpack, comfortable setting up domains and DNS records
 rSpec, Cucumber, Capybara, Selenium, Watir, FactoryBot, TimeCop, Mocha, Chai,
 Jest, Cypress, Storybook
 
-### Soft skills
+### Other Skills
 
-Fluent in Italian, excellent communication skills, personable and friendly,
-Arduino, Raspberry Pi
+Fluent in English and Italian, Arduino, Raspberry Pi
 
-## Projects && contributions
+## Projects && Contributions
 
 ### Catering Manager, 2004—present
 
@@ -175,11 +174,11 @@ library for writing sprites of arbitrary size to any location on the screen.
 
 ## Education
 
-### Lighthouse Labs, graduation anticipated December 2019
+### Lighthouse Labs, December 2019
 
 Diploma of Web Development
 
-### Hebrew University of Jerusalem; Coursera, 2019
+### Hebrew University of Jerusalem; Coursera, March 2019
 
 #### Build a Modern Computer from First Principles: From Nand to Tetris Part I
 
@@ -188,8 +187,6 @@ Grade achieved: 100%
 #### Build a Modern Computer from First Principles: From Nand to Tetris Part II
 
 Grade achieved: 96.8%
-
-### Self-directed learning
 
 ## Experience
 
