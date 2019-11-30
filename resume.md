@@ -192,21 +192,21 @@ Grade achieved: 96.8%
 
 ### Full Stack Developer, Orlando’s Catering; Coquitlam, BC — 2004–present
 
-- Completely wrote and maintained a Ruby on Rails application for creating and
-  managing menus and quotes
-- Championed use of user stories with non-technical stakeholders
-- Spearheaded initiative to go from in-house physical deployment to AWS cloud
+- Write and maintain a Ruby on Rails application for creating and managing menus
+  and quotes
+- Champion use of user stories with non-technical stakeholders
+- Spearhead initiative to go from in-house physical deployment to AWS cloud
   deployment, reducing down-time and eliminating need to hire additional
   technical staff
-- Slashed deployment issues and time by integrating Docker containerization to
+- Slash deployment issues and time by integrating Docker containerization to
   equalize test/development/production environments
-- Invigorated stakeholders by turning the user stories developed with them into
-  acceptance/system tests using Gherkin/Cucumber, which they could see failing
-  or passing
-- Shortened feedback loop and development cycle by implementing only minimum
+- Invigorate stakeholders by turning the user stories developed with them into
+  acceptance/system tests using Gherkin/Cucumber, which they can see failing or
+  passing
+- Shorten feedback loop and development cycle by implementing only minimum
   viable changes and deploying immediately, resulting in greater participation
   and excitement in developing the software by stakeholders and all users
-- Implemented a test-first, behaviour-driven design methodology, resulting in
+- Implement a test-first, behaviour-driven design methodology, resulting in
   higher willingness to make— and increased confidence in—changes to the
   software
 - Technology stack: Ruby-on-Rails 5.2, vanilla javascript + jQuery, CSS, AWS,
