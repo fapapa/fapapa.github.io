@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: Résumé
 permalink: /resume/
 id: resume
@@ -7,13 +7,13 @@ id: resume
 
 ## Summary
 
-I caught the software programming bug in 2003 and have been coding every chance
-I get ever since. I am a full-stack web developer with a particular passion for
-back-end and Javascript frameworks. My projects are live today, being used to
-solve real-world business problems. I subscribe to the old adage, "Find
-something you love to do and you will never work a day in your life," and feel
-blessed to have found "that something." My mind and temperment are well-suited
-for logically working through problems and coming up with elegant solutions.
+I caught the software programming bug in 2003 and have been coding ever since. I
+am a full-stack web developer with a particular passion for Rails and React. My
+projects are live today, being used to solve real-world business problems. I
+subscribe to the old adage, "Find something you love to do and you will never
+work a day in your life," and feel blessed to have found "that something." My
+mind and temperment are well-suited for logically working through problems and
+coming up with elegant solutions.
 
 ## Skills
 
@@ -21,13 +21,13 @@ for logically working through problems and coming up with elegant solutions.
 
 Ruby, Javascript, HTML, CSS
 
-### Frameworks, libraries and environments
+### Frameworks, Libraries and Environments
 
 Rails, NodeJS, React, Ajax, Axios, Express, EJS, JQuery, Bootstrap,
 ActiveRecord, SASS, Docker, good understanding of HTTP request/response
 lifecycle, REST, WebSockets
 
-### Systems, CMS && databases
+### Systems, CMS && Databases
 
 SQL (various dialects), Git, GitFlow, Subversion, AWS, DigitalOcean, Heroku,
 Gem, Bundler, NPM, Yarn, Webpack, comfortable setting up domains and DNS records
@@ -37,12 +37,11 @@ Gem, Bundler, NPM, Yarn, Webpack, comfortable setting up domains and DNS records
 rSpec, Cucumber, Capybara, Selenium, Watir, FactoryBot, TimeCop, Mocha, Chai,
 Jest, Cypress, Storybook
 
-### Soft skills
+### Other Skills
 
-Fluent in Italian, excellent communication skills, personable and friendly,
-Arduino, Raspberry Pi
+Fluent in English and Italian, Arduino, Raspberry Pi
 
-## Projects && contributions
+## Projects && Contributions
 
 ### Catering Manager, 2004—present
 
@@ -175,11 +174,11 @@ library for writing sprites of arbitrary size to any location on the screen.
 
 ## Education
 
-### Lighthouse Labs, graduation anticipated December 2019
+### Lighthouse Labs, December 2019
 
 Diploma of Web Development
 
-### Hebrew University of Jerusalem; Coursera, 2019
+### Hebrew University of Jerusalem; Coursera, March 2019
 
 #### Build a Modern Computer from First Principles: From Nand to Tetris Part I
 
@@ -189,27 +188,25 @@ Grade achieved: 100%
 
 Grade achieved: 96.8%
 
-### Self-directed learning
-
 ## Experience
 
 ### Full Stack Developer, Orlando’s Catering; Coquitlam, BC — 2004–present
 
-- Completely wrote and maintained a Ruby on Rails application for creating and
-  managing menus and quotes
-- Championed use of user stories with non-technical stakeholders
-- Spearheaded initiative to go from in-house physical deployment to AWS cloud
+- Write and maintain a Ruby on Rails application for creating and managing menus
+  and quotes
+- Champion use of user stories with non-technical stakeholders
+- Spearhead initiative to go from in-house physical deployment to AWS cloud
   deployment, reducing down-time and eliminating need to hire additional
   technical staff
-- Slashed deployment issues and time by integrating Docker containerization to
+- Slash deployment issues and time by integrating Docker containerization to
   equalize test/development/production environments
-- Invigorated stakeholders by turning the user stories developed with them into
-  acceptance/system tests using Gherkin/Cucumber, which they could see failing
-  or passing
-- Shortened feedback loop and development cycle by implementing only minimum
+- Invigorate stakeholders by turning the user stories developed with them into
+  acceptance/system tests using Gherkin/Cucumber, which they can see failing or
+  passing
+- Shorten feedback loop and development cycle by implementing only minimum
   viable changes and deploying immediately, resulting in greater participation
   and excitement in developing the software by stakeholders and all users
-- Implemented a test-first, behaviour-driven design methodology, resulting in
+- Implement a test-first, behaviour-driven design methodology, resulting in
   higher willingness to make— and increased confidence in—changes to the
   software
 - Technology stack: Ruby-on-Rails 5.2, vanilla javascript + jQuery, CSS, AWS,
