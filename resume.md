@@ -54,7 +54,7 @@ catering and La Perla Ballroom, which generates customer-facing quotes
 (in .pdf format), books and tracks events, and is used by staff for
 organizing events.
 
-### [Fitagotchi](https://github.com/fapapa/Bit-Fit)
+### [Fitagotchi](https://github.com/fapapa/Bit-Fit), December 2019
 
 **Stack**: Ruby on Rails 6.0, React 16.8, Postgres, Heroku
 
@@ -62,7 +62,9 @@ Fitagotchi is a mashup of the 90's toy phenomenon *Tamagotchi*, with your Fitbit
 activity tracker. Instead of keeping a little critter alive-and-well by clicking
 some buttons, you keep it alive using your calories on your fitbit. You can also
 challenge friends to three-day battles to see who can burn the most calories;
-for which you will be rewarding with an animated fight scene when finished.
+for which you will be rewarding with an animated fight scene when
+finished. **Won first prize for final project at Lighthouse Labs Web Development
+Bootcamp.**
 
 ### [Scheduler](https://github.com/fapapa/scheduler), November 2019
 
