@@ -33,6 +33,35 @@ contributed to).
 (private repo; send me an email and I can grant access on a case-by-case basis.)
 </p>
 </li>
+
+<li>
+<h2 class="project">Fitagotchi</h2>
+<img alt="Fitagotchi: Keep a critter alive by burning calories"
+     src="/assets/fitagotchi_screenshot.png"/>
+
+<p class="description">
+
+  Fitagotchi is a mashup of the 90's toy phenomenon
+  <em>Tamagotchi</em>, with your Fitbit activity tracker. Instead of
+  keeping a little critter alive-and-well by clicking some buttons,
+  you keep it alive using your calories on your fitbit. You can also
+  challenge friends to three-day battles to see who can burn the most
+  calories; for which you will be rewarding with an animated fight
+  scene when finished. <strong>Won first prize for final project at
+  Lighthouse Labs Web Development Bootcamp.</strong>
+
+</p>
+
+<h3>My contributions</h3>
+<ul>
+  <li>Full-stack development using Rails and React</li>
+  <li>Involved in everything from planning to design and development</li>
+</ul>
+<p class="source">
+<a href="https://github.com/fapapa/Bit-Fit">source</a>
+</p>
+</li>
+
 <li>
 <h2 class="project">Catering Manager (Orlando's Catering)</h2>
 <img alt="Catering Manager app screenshot" src="/assets/catering_manager-screenshot.png"/>
