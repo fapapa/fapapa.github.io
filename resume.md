@@ -53,6 +53,18 @@ application, in production use today, used by Orlando's catering and La Perla
 Ballroom, which generates customer-facing quotes (in PDF format), books and
 tracks events, and is used by staff for organizing events.
 
+### [Fitagotchi](https://github.com/fapapa/Bit-Fit), December 2019
+
+**Stack**: Ruby on Rails 6.0, React 16.8, Postgres, Heroku
+
+Fitagotchi is a mashup of the 90's toy phenomenon _Tamagotchi_, with your Fitbit
+activity tracker. Instead of keeping a little critter alive-and-well by clicking
+some buttons, you keep it alive using your calories on your Fitbit. You can also
+challenge friends to three-day battles to see who can burn the most calories;
+for which you will be rewarding with an animated fight scene when finished.
+**Won first prize for final project at Lighthouse Labs Web Development
+Boot-camp.**
+
 ### [Scheduler](https://github.com/fapapa/scheduler), November 2019
 
 **Stack**: Node, Express, PostgreSQL, React, Jest, Cypress
