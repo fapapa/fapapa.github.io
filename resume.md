@@ -58,7 +58,7 @@ organizing events.
 
 **Stack**: Node, Express, PostgreSQL, React, Jest, Cypress
 
-Scheduler is a *single-page application* built with React. I also implemented a
+Scheduler is a _single-page application_ built with React. I also implemented a
 set of features that use web-sockets to update one user's view when another user
 modifies the schedule.
 
@@ -91,7 +91,7 @@ students in free time) to build a rudimentary file server and client.
 **Stack**: Node, Express, API's (IPify, IPVigilante, OpenNotify)
 
 This Lighthouse Labs project chains together three API's to automagically
-display the next flyover dates and times of the *International Space Station*
+display the next flyover dates and times of the _International Space Station_
 over the user's airspace. It was a great way to explore promises (and the async
 nature of Javascript) without using async/await.
 
@@ -109,7 +109,7 @@ basic analytics.
 **Stack**: HTML, CSS, Javascript, jQuery
 
 BarChart is a Javascript library that allows you to generate bar charts for
-display on websites. This was an optional *stretch project* for my pre-course
+display on websites. This was an optional _stretch project_ for my pre-course
 prep work for Lighthouse Labs, completed by only a handful of students that have
 taken the bootcamp.
 
@@ -120,8 +120,8 @@ taken the bootcamp.
 In this contribution to the FOSS project, GitLab, I added a requested feature
 that adds a preference to allow maintainers to create subgroups, instead of
 having to ask the owner of the group to create the subgroup, giving developers
-the option to be more agile. This contribution garnered me the title of *MVP of
-the release*, and a $150 gift certificate!
+the option to be more agile. This contribution garnered me the title of _MVP of
+the release_, and a \$150 gift certificate!
 
 ### [GitLab - merge request !29511](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/29511), June 2019
 
@@ -137,8 +137,8 @@ it was an interesting business problem.
 
 **Stack**: Ruby
 
-I wrote a compiler in Ruby from scratch that compiles *Jack* code into VM
-language. It does *syntax analysis* and *code generation* to turn the high-level
+I wrote a compiler in Ruby from scratch that compiles _Jack_ code into VM
+language. It does _syntax analysis_ and _code generation_ to turn the high-level
 code into a stream of tokens that are then converted into VM commands.
 
 ### [GitLab - merge request !25942](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/25942), March 2019
@@ -169,7 +169,7 @@ I wrote an assembler in Ruby that converts assembly code into machine code.
 **Stack**: Jack (a Java-like programming language created for the Nand to Tetris
 Course)
 
-I wrote a Sudoku game for the *Nand to Tetris* course, including a graphics
+I wrote a Sudoku game for the _Nand to Tetris_ course, including a graphics
 library for writing sprites of arbitrary size to any location on the screen.
 
 ## Education
