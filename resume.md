@@ -12,20 +12,20 @@ am a full-stack web developer with a particular passion for Rails and React. My
 projects are live today, being used to solve real-world business problems. I
 subscribe to the old adage, "Find something you love to do and you will never
 work a day in your life," and feel blessed to have found "that something." My
-mind and temperment are well-suited for logically working through problems and
+mind and temperament are well-suited for logically working through problems and
 coming up with elegant solutions.
 
 ## Skills
 
 ### Languages
 
-Ruby, Javascript, HTML, CSS
+Ruby, JavaScript, HTML, CSS
 
 ### Frameworks, Libraries and Environments
 
 Rails, NodeJS, React, Ajax, Axios, Express, EJS, JQuery, Bootstrap,
 ActiveRecord, SASS, Docker, good understanding of HTTP request/response
-lifecycle, REST, WebSockets
+life-cycle, REST, Web Sockets
 
 ### Systems, CMS && Databases
 
@@ -45,13 +45,13 @@ Fluent in English and Italian, Arduino, Raspberry Pi
 
 ### Catering Manager, 2004—present
 
-**Stack**: Ruby on Rails 5.2, Javascript, jQuery, HTML5, CSS3, AWS, Digital
+**Stack**: Ruby on Rails 5.2, JavaScript, jQuery, HTML5, CSS3, AWS, Digital
 Ocean, Docker, PostgreSQL, Ubuntu Server
 
 **Private repo; please contact me for access.** Catering Manager is a
 real-world application, in production use today, used by Orlando's
 catering and La Perla Ballroom, which generates customer-facing quotes
-(in .pdf format), books and tracks events, and is used by staff for
+(in PDF format), books and tracks events, and is used by staff for
 organizing events.
 
 ### [Scheduler](https://github.com/fapapa/scheduler), November 2019
@@ -64,7 +64,7 @@ modifies the schedule.
 
 ### [Bufala Online Order & Pickup](https://github.com/SunnieBB/hungry-people), October 2019
 
-**Stack**: Node, Express, EJS, HTML, CSS, Javascript, jQuery, PostgreSQL, Twilio
+**Stack**: Node, Express, EJS, HTML, CSS, JavaScript, jQuery, PostgreSQL, Twilio
 API
 
 Bufala is a real restaurant for which my team and I built a fictitious online
@@ -74,7 +74,7 @@ SMS-sending to create a great experience for both.
 
 ### [Tweeter](https://github.com/fapapa/tweeter), October 2019
 
-**Stack**: HTML, CSS, Javascript, jQuery, Node, Express, EJS, SASS
+**Stack**: HTML, CSS, JavaScript, jQuery, Node, Express, EJS, SASS
 
 Tweeter is a clone of the popular social media juggernaut, completed as part of
 the Lighthouse Labs course work.
@@ -90,14 +90,14 @@ students in free time) to build a rudimentary file server and client.
 
 **Stack**: Node, Express, API's (IPify, IPVigilante, OpenNotify)
 
-This Lighthouse Labs project chains together three API's to automagically
+This Lighthouse Labs project chains together three API's to *automagically*™
 display the next flyover dates and times of the _International Space Station_
 over the user's airspace. It was a great way to explore promises (and the async
-nature of Javascript) without using async/await.
+nature of JavaScript) without using async/await.
 
 ### [TinyApp](https://github.com/fapapa/tinyApp), September 2019
 
-**Stack**: HTML, CSS, Javascript, Node, Express, EJS
+**Stack**: HTML, CSS, JavaScript, Node, Express, EJS
 
 TinyApp is a clone of a URL shortening service, built as part of the Lighthouse
 Labs Web Development course. I added extra features that were not part of the
@@ -106,12 +106,12 @@ basic analytics.
 
 ### [BarChart](https://github.com/fapapa/bar-chart-js), September 2019
 
-**Stack**: HTML, CSS, Javascript, jQuery
+**Stack**: HTML, CSS, JavaScript, jQuery
 
-BarChart is a Javascript library that allows you to generate bar charts for
+BarChart is a JavaScript library that allows you to generate bar charts for
 display on websites. This was an optional _stretch project_ for my pre-course
 prep work for Lighthouse Labs, completed by only a handful of students that have
-taken the bootcamp.
+taken the boot-camp.
 
 ### [GitLab - merge request !29718](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/29718), June 2019
 
@@ -146,7 +146,7 @@ code into a stream of tokens that are then converted into VM commands.
 **Stack**: Ruby on Rails, PostgreSQL
 
 Simply a matter of deleting some unnecessary lines and updating the unit
-tests. I wanted to get a flavour for installing GDK and stepping through the
+tests. I wanted to get a flavor for installing GDK and stepping through the
 workflow of squashing bugs and adding features, while lowering Gitlab's
 technical debt.
 
@@ -206,10 +206,10 @@ Grade achieved: 96.8%
 - Shorten feedback loop and development cycle by implementing only minimum
   viable changes and deploying immediately, resulting in greater participation
   and excitement in developing the software by stakeholders and all users
-- Implement a test-first, behaviour-driven design methodology, resulting in
+- Implement a test-first, behavior-driven design methodology, resulting in
   higher willingness to make— and increased confidence in—changes to the
   software
-- Technology stack: Ruby-on-Rails 5.2, vanilla javascript + jQuery, CSS, AWS,
+- Technology stack: Ruby-on-Rails 5.2, vanilla JavaScript + jQuery, CSS, AWS,
   Digital Ocean, Docker, PostgreSQL, Ubuntu Server
 
 ### Owner/Franchisee, Mr. Pretzels; Vancouver, BC — 2016–2019
