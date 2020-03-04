@@ -48,11 +48,10 @@ Fluent in English and Italian, Arduino, Raspberry Pi
 **Stack**: Ruby on Rails 5.2, JavaScript, jQuery, HTML5, CSS3, AWS, Digital
 Ocean, Docker, PostgreSQL, Ubuntu Server
 
-**Private repo; please contact me for access.** Catering Manager is a
-real-world application, in production use today, used by Orlando's
-catering and La Perla Ballroom, which generates customer-facing quotes
-(in PDF format), books and tracks events, and is used by staff for
-organizing events.
+**Private repo; please contact me for access.** Catering Manager is a real-world
+application, in production use today, used by Orlando's catering and La Perla
+Ballroom, which generates customer-facing quotes (in PDF format), books and
+tracks events, and is used by staff for organizing events.
 
 ### [Scheduler](https://github.com/fapapa/scheduler), November 2019
 
@@ -145,10 +144,9 @@ code into a stream of tokens that are then converted into VM commands.
 
 **Stack**: Ruby on Rails, PostgreSQL
 
-Simply a matter of deleting some unnecessary lines and updating the unit
-tests. I wanted to get a flavor for installing GDK and stepping through the
-workflow of squashing bugs and adding features, while lowering Gitlab's
-technical debt.
+Simply a matter of deleting some unnecessary lines and updating the unit tests.
+I wanted to get a flavor for installing GDK and stepping through the workflow of
+squashing bugs and adding features, while lowering Gitlab's technical debt.
 
 ### [VM Translator](https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/08), March 2019
 
