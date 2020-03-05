@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Fabio Papa – Full-Stack Web Developer
-email: "me -AT- fabiopapa -DOT- dev"
+email: me@fabiopapa.dev
 phone: +1 (778) 230-5559
 description: >- # this means to ignore newlines until "baseurl:"
   Organized, independent, self-motivated developer with 16 years of *Ruby on
