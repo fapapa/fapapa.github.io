@@ -7,13 +7,12 @@ id: resume
 
 ## Summary
 
-I caught the software programming bug in 2003 and have been coding ever since. I
-am a full-stack web developer with a particular passion for Rails and React. My
-projects are live today, being used to solve real-world business problems. I
-subscribe to the old adage, "Find something you love to do and you will never
-work a day in your life," and feel blessed to have found "that something." My
-mind and temperament are well-suited for logically working through problems and
-coming up with elegant solutions.
+Software developer with over 15 years of experience in **full-stack** web
+development, with a strong focus on _Ruby on Rails_ and _React_. Believes deeply
+in finding the simplest-possible solution, and iterating over it until an
+elegant, joy-eliciting solution emerges. Passionate about clean, readable code
+that communicates intent, _test-driven-_ and _behavior-driven-design_, and clean
+user interfaces.
 
 ## Skills
 
