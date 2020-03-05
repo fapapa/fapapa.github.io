@@ -7,13 +7,12 @@ id: resume
 
 ## Summary
 
-I caught the software programming bug in 2003 and have been coding ever since. I
-am a full-stack web developer with a particular passion for Rails and React. My
-projects are live today, being used to solve real-world business problems. I
-subscribe to the old adage, "Find something you love to do and you will never
-work a day in your life," and feel blessed to have found "that something." My
-mind and temperament are well-suited for logically working through problems and
-coming up with elegant solutions.
+Software developer with over 15 years of experience in **full-stack** web
+development, with a strong focus on _Ruby on Rails_ and _React_. Believes deeply
+in finding the simplest-possible solution, and iterating over it until an
+elegant, joy-eliciting solution emerges. Passionate about clean, readable code
+that communicates intent, _test-driven-_ and _behavior-driven-design_, and clean
+user interfaces.
 
 ## Skills
 
@@ -43,144 +42,7 @@ Fluent in English and Italian, Arduino, Raspberry Pi
 
 ## Projects && Contributions
 
-### Catering Manager, 2004—present
-
-**Stack**: Ruby on Rails 5.2, JavaScript, jQuery, HTML5, CSS3, AWS, Digital
-Ocean, Docker, PostgreSQL, Ubuntu Server
-
-**Private repo; please contact me for access.** Catering Manager is a real-world
-application, in production use today, used by Orlando's catering and La Perla
-Ballroom, which generates customer-facing quotes (in PDF format), books and
-tracks events, and is used by staff for organizing events.
-
-### [Fitagotchi](https://github.com/fapapa/Bit-Fit), December 2019
-
-**Stack**: Ruby on Rails 6.0, React 16.8, Postgres, Heroku
-
-Fitagotchi is a mashup of the 90's toy phenomenon _Tamagotchi_, with your Fitbit
-activity tracker. Instead of keeping a little critter alive-and-well by clicking
-some buttons, you keep it alive using your calories on your Fitbit. You can also
-challenge friends to three-day battles to see who can burn the most calories;
-for which you will be rewarding with an animated fight scene when finished.
-**Won first prize for final project at Lighthouse Labs Web Development
-Boot-camp.**
-
-### [Scheduler](https://github.com/fapapa/scheduler), November 2019
-
-**Stack**: Node, Express, PostgreSQL, React, Jest, Cypress
-
-Scheduler is a _single-page application_ built with React. I also implemented a
-set of features that use web-sockets to update one user's view when another user
-modifies the schedule.
-
-### [Bufala Online Order & Pickup](https://github.com/SunnieBB/hungry-people), October 2019
-
-**Stack**: Node, Express, EJS, HTML, CSS, JavaScript, jQuery, PostgreSQL, Twilio
-API
-
-Bufala is a real restaurant for which my team and I built a fictitious online
-order-and-pickup system for our mid-term project at Lighthouse Labs. It is
-comprised of a customer-facing component, a restaurant-facing component, an
-SMS-sending to create a great experience for both.
-
-### [Tweeter](https://github.com/fapapa/tweeter), October 2019
-
-**Stack**: HTML, CSS, JavaScript, jQuery, Node, Express, EJS, SASS
-
-Tweeter is a clone of the popular social media juggernaut, completed as part of
-the Lighthouse Labs course work.
-
-### [File Server](https://github.com/fapapa/file-server), October 2019
-
-**Stack**: Node, net library, fs library
-
-A Lighthouse Labs **stretch** project (to be attempted only by more advanced
-students in free time) to build a rudimentary file server and client.
-
-### [ISS Spotter](https://github.com/fapapa/iss_spotter), October 2019
-
-**Stack**: Node, Express, API's (IPify, IPVigilante, OpenNotify)
-
-This Lighthouse Labs project chains together three API's to *automagically*™
-display the next flyover dates and times of the _International Space Station_
-over the user's airspace. It was a great way to explore promises (and the async
-nature of JavaScript) without using async/await.
-
-### [TinyApp](https://github.com/fapapa/tinyApp), September 2019
-
-**Stack**: HTML, CSS, JavaScript, Node, Express, EJS
-
-TinyApp is a clone of a URL shortening service, built as part of the Lighthouse
-Labs Web Development course. I added extra features that were not part of the
-standard course work, allowing a user to track their shortened URLS and access
-basic analytics.
-
-### [BarChart](https://github.com/fapapa/bar-chart-js), September 2019
-
-**Stack**: HTML, CSS, JavaScript, jQuery
-
-BarChart is a JavaScript library that allows you to generate bar charts for
-display on websites. This was an optional _stretch project_ for my pre-course
-prep work for Lighthouse Labs, completed by only a handful of students that have
-taken the boot-camp.
-
-### [GitLab - merge request !29718](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/29718), June 2019
-
-**Stack**: Ruby on Rails, PostgreSQL
-
-In this contribution to the FOSS project, GitLab, I added a requested feature
-that adds a preference to allow maintainers to create subgroups, instead of
-having to ask the owner of the group to create the subgroup, giving developers
-the option to be more agile. This contribution garnered me the title of _MVP of
-the release_, and a \$150 gift certificate!
-
-### [GitLab - merge request !29511](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/29511), June 2019
-
-**Stack**: Ruby on Rails, PostgreSQL
-
-I fixed an issue where, when pushing a repository to a new and default branch,
-the commit messages would not get processed for issue references, which was
-stopping some users of competitive products from switching to GitLab. I picked
-this issue to help me learn about the overall architecture of GitLab and because
-it was an interesting business problem.
-
-### [Compiler](https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/11), April 2019
-
-**Stack**: Ruby
-
-I wrote a compiler in Ruby from scratch that compiles _Jack_ code into VM
-language. It does _syntax analysis_ and _code generation_ to turn the high-level
-code into a stream of tokens that are then converted into VM commands.
-
-### [GitLab - merge request !25942](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/25942), March 2019
-
-**Stack**: Ruby on Rails, PostgreSQL
-
-Simply a matter of deleting some unnecessary lines and updating the unit tests.
-I wanted to get a flavor for installing GDK and stepping through the workflow of
-squashing bugs and adding features, while lowering Gitlab's technical debt.
-
-### [VM Translator](https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/08), March 2019
-
-**Stack**: Ruby
-
-I wrote a VM translator in Ruby that converts virtual machine code into
-assembly. This helped me to understand the nature of call stacks in programming
-and how it relates both to higher-level languages and to assembly instructions.
-
-### [Assembler](https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/06), March 2019
-
-**Stack**: Ruby
-
-I wrote an assembler in Ruby that converts assembly code into machine code.
-
-### [JackDoku](https://gitlab.com/fapapa/nand2tetris-course/tree/master/projects/09/JackDoku), March 2019
-
-**Stack**: Jack (a Java-like programming language created for the Nand to Tetris
-Course)
-
-I wrote a Sudoku game for the _Nand to Tetris_ course, including a graphics
-library for writing sprites of arbitrary size to any location on the screen.
+See [portfolio page](/portfolio) for a sampling of my projects
 
 ## Education
 
@@ -200,14 +62,13 @@ Grade achieved: 96.8%
 
 ## Experience
 
-### Full Stack Developer, Orlando’s Catering; Coquitlam, BC — 2004–present
+### Freelance Developer, Self-Employed; Coquitlam, BC — 2004–present
 
-- Write and maintain a Ruby on Rails application for creating and managing menus
-  and quotes
+- Write and maintain Ruby on Rails applications for companies and individuals
 - Champion use of user stories with non-technical stakeholders
-- Spearhead initiative to go from in-house physical deployment to AWS cloud
-  deployment, reducing down-time and eliminating need to hire additional
-  technical staff
+- Spearhead initiative to go from in-house physical deployment to AWS, Digital
+  Ocean, and other cloud providers, reducing down-time and eliminating need to
+  hire additional technical staff
 - Slash deployment issues and time by integrating Docker containerization to
   equalize test/development/production environments
 - Invigorate stakeholders by turning the user stories developed with them into
@@ -219,8 +80,6 @@ Grade achieved: 96.8%
 - Implement a test-first, behavior-driven design methodology, resulting in
   higher willingness to make— and increased confidence in—changes to the
   software
-- Technology stack: Ruby-on-Rails 5.2, vanilla JavaScript + jQuery, CSS, AWS,
-  Digital Ocean, Docker, PostgreSQL, Ubuntu Server
 
 ### Owner/Franchisee, Mr. Pretzels; Vancouver, BC — 2016–2019
 
