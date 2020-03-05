@@ -34,6 +34,30 @@ wild</em> instead of getting everything perfect.
 (private repo; send me an email and I can grant access on a case-by-case basis.)
 </p>
 </li>
+
+<li>
+<h2 class="project">Fitagotchi</h2>
+<img alt="Fitagotchi: Winning final project at Lighthouse Labs" src="/assets/fitagotchi-screenshot.png"/>
+<p class="description">
+
+Fitagotchi is a mashup of the 90's toy phenomenon _Tamagotchi_, with your Fitbit
+activity tracker. Instead of keeping a little critter alive-and-well by clicking
+some buttons, you keep it alive using your calories on your Fitbit. You can also
+challenge friends to three-day battles to see who can burn the most calories;
+for which you will be rewarding with an animated fight scene when finished.
+<strong>Won first prize for final project at Lighthouse Labs Web Development
+Boot-camp.</strong>
+
+</p>
+<h3>My contributions</h3>
+<ul>
+  <li>Full-stack development</li>
+  <li>Rails back-end/API</li>
+  <li>React front-end</li>
+</ul>
+<p class="source"><a href="https://github.com/fapapa/Bit-Fit">source</a></p>
+</li>
+
 <li>
 <h2 class="project">Catering Manager (Orlando's Catering)</h2>
 <img alt="Catering Manager app screenshot" src="/assets/catering_manager-screenshot.png"/>
