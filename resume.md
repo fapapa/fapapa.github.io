@@ -42,7 +42,7 @@ Fluent in English and Italian, Arduino, Raspberry Pi
 
 ## Projects && Contributions
 
-See [portfolio page](/portfolio) for a sampling of my projects
+Please see my website at [fabiopapa.dev](https://www.fabiopapa.dev)
 
 ## Education
 

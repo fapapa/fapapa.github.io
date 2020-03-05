@@ -5,7 +5,7 @@
 layout: default
 ---
 
-``` ruby
+```ruby
 require('developer_lookup')
 
 module RubyOnRails
@@ -14,7 +14,7 @@ module RubyOnRails
       @name = name
       @experience = experience
     end
-	
+
     def details
       @details ||= DeveloperLookup.get_details(self)
     end
@@ -22,7 +22,7 @@ module RubyOnRails
 end
 ```
 
-``` ruby
+```ruby
 irb> me = RubyOnRails::Developer.new('Fabio Papa', 16.years)
 irb> puts me.details
 {
@@ -30,8 +30,7 @@ irb> puts me.details
   loves_rails: true,
   personality: 5/5,
   independent_work: 5/5,
-  team_work: 5/5,
-  ideal_employer: 'GitLab'
+  team_work: 5/5
 }
-irb> 
+irb>
 ```

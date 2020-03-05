@@ -37,7 +37,7 @@ wild</em> instead of getting everything perfect.
 
 <li>
 <h2 class="project">Fitagotchi</h2>
-<img alt="Fitagotchi: Winning final project at Lighthouse Labs" src="/assets/fitagotchi-screenshot.png"/>
+<img alt="Fitagotchi: Winning final project at Lighthouse Labs" src="/assets/fitagotchi_screenshot.png"/>
 <p class="description">
 
 Fitagotchi is a mashup of the 90's toy phenomenon <em>Tamagotchi</em> with your
@@ -54,6 +54,8 @@ Development Boot-camp.</strong>
   <li>Full-stack development</li>
   <li>Rails back-end/API</li>
   <li>React front-end</li>
+  <li>Involved in everything from planning to design, architecture, and
+  development</li>
 </ul>
 <p class="source"><a href="https://github.com/fapapa/Bit-Fit">source</a></p>
 </li>
