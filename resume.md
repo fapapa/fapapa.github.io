@@ -62,14 +62,13 @@ Grade achieved: 96.8%
 
 ## Experience
 
-### Full Stack Developer, Orlando’s Catering; Coquitlam, BC — 2004–present
+### Freelance Developer, Self-Employed; Coquitlam, BC — 2004–present
 
-- Write and maintain a Ruby on Rails application for creating and managing menus
-  and quotes
+- Write and maintain Ruby on Rails applications for companies and individuals
 - Champion use of user stories with non-technical stakeholders
-- Spearhead initiative to go from in-house physical deployment to AWS cloud
-  deployment, reducing down-time and eliminating need to hire additional
-  technical staff
+- Spearhead initiative to go from in-house physical deployment to AWS, Digital
+  Ocean, and other cloud providers, reducing down-time and eliminating need to
+  hire additional technical staff
 - Slash deployment issues and time by integrating Docker containerization to
   equalize test/development/production environments
 - Invigorate stakeholders by turning the user stories developed with them into
@@ -81,8 +80,6 @@ Grade achieved: 96.8%
 - Implement a test-first, behavior-driven design methodology, resulting in
   higher willingness to make— and increased confidence in—changes to the
   software
-- Technology stack: Ruby-on-Rails 5.2, vanilla JavaScript + jQuery, CSS, AWS,
-  Digital Ocean, Docker, PostgreSQL, Ubuntu Server
 
 ### Owner/Franchisee, Mr. Pretzels; Vancouver, BC — 2016–2019
 
