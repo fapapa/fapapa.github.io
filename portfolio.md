@@ -40,13 +40,13 @@ wild</em> instead of getting everything perfect.
 <img alt="Fitagotchi: Winning final project at Lighthouse Labs" src="/assets/fitagotchi-screenshot.png"/>
 <p class="description">
 
-Fitagotchi is a mashup of the 90's toy phenomenon _Tamagotchi_, with your Fitbit
-activity tracker. Instead of keeping a little critter alive-and-well by clicking
-some buttons, you keep it alive using your calories on your Fitbit. You can also
-challenge friends to three-day battles to see who can burn the most calories;
-for which you will be rewarding with an animated fight scene when finished.
-<strong>Won first prize for final project at Lighthouse Labs Web Development
-Boot-camp.</strong>
+Fitagotchi is a mashup of the 90's toy phenomenon <em>Tamagotchi</em> with your
+Fitbit activity tracker. Instead of keeping a little critter alive-and-well by
+clicking some buttons, you keep it alive using your calories on your Fitbit. You
+can also challenge friends to three-day battles to see who can burn the most
+calories; for which you will be rewarding with an animated fight scene when
+finished. <strong>Won first prize for final project at Lighthouse Labs Web
+Development Boot-camp.</strong>
 
 </p>
 <h3>My contributions</h3>
