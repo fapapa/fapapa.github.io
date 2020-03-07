@@ -81,6 +81,19 @@ Grade achieved: 96.8%
   higher willingness to make— and increased confidence in—changes to the
   software
 
+### Mentor, Lighthouse Labs; Vancouver, BC — 2020–present
+
+- Assist bootcamp students with debugging, code reviews, and
+  explanation/exploration of programming topics
+- Assess student progress and identify students needing further attention
+- Provide guidance to students as they pick and flesh-out their mid-term and
+  final projects
+- Nurture students who are struggling, pin-pointing any foundational problems
+  that are keeping them from learning new concepts, and devising a plan for them
+  to execute to get on-track
+- Lead mock technical interviews to allow student to practice, and to further
+  identify any holes in knowledge
+
 ### Owner/Franchisee, Mr. Pretzels; Vancouver, BC — 2016–2019
 
 - Owned and successfully managed three high-traffic locations
