@@ -14,52 +14,6 @@ elegant, joy-eliciting solution emerges. Passionate about clean, readable code
 that communicates intent, _test-driven-_ and _behavior-driven-design_, and clean
 user interfaces.
 
-## Skills
-
-### Languages
-
-Ruby, JavaScript, HTML, CSS
-
-### Frameworks, Libraries and Environments
-
-Rails, NodeJS, React, Ajax, Axios, Express, EJS, JQuery, Bootstrap,
-ActiveRecord, SASS, Docker, good understanding of HTTP request/response
-life-cycle, REST, Web Sockets
-
-### Systems, CMS && Databases
-
-SQL (various dialects), Git, GitFlow, Subversion, AWS, DigitalOcean, Heroku,
-Gem, Bundler, NPM, Yarn, Webpack, comfortable setting up domains and DNS records
-
-### Testing
-
-rSpec, Cucumber, Capybara, Selenium, Watir, FactoryBot, TimeCop, Mocha, Chai,
-Jest, Cypress, Storybook
-
-### Other Skills
-
-Fluent in English and Italian, Arduino, Raspberry Pi
-
-## Projects && Contributions
-
-Please see my website at [fabiopapa.dev](https://www.fabiopapa.dev)
-
-## Education
-
-### Lighthouse Labs, December 2019
-
-Diploma of Web Development
-
-### Hebrew University of Jerusalem; Coursera, March 2019
-
-#### Build a Modern Computer from First Principles: From Nand to Tetris Part I
-
-Grade achieved: 100%
-
-#### Build a Modern Computer from First Principles: From Nand to Tetris Part II
-
-Grade achieved: 96.8%
-
 ## Experience
 
 ### Freelance Developer, Self-Employed; Coquitlam, BC — 2004–present
@@ -126,3 +80,49 @@ Grade achieved: 96.8%
   deployment (to MS Dynamics AX)
 - Took initiative to become an evangelist for our in-house customer-facing 
   e-commerce solution
+
+## Skills
+
+### Languages
+
+Ruby, JavaScript, HTML, CSS
+
+### Frameworks, Libraries and Environments
+
+Rails, NodeJS, React, Ajax, Axios, Express, EJS, JQuery, Bootstrap,
+ActiveRecord, SASS, Docker, good understanding of HTTP request/response
+life-cycle, REST, Web Sockets
+
+### Systems, CMS && Databases
+
+SQL (various dialects), Git, GitFlow, Subversion, AWS, DigitalOcean, Heroku,
+Gem, Bundler, NPM, Yarn, Webpack, comfortable setting up domains and DNS records
+
+### Testing
+
+rSpec, Cucumber, Capybara, Selenium, Watir, FactoryBot, TimeCop, Mocha, Chai,
+Jest, Cypress, Storybook
+
+### Other Skills
+
+Fluent in English and Italian, Arduino, Raspberry Pi
+
+## Projects && Contributions
+
+Please see my website at [fabiopapa.dev](https://www.fabiopapa.dev)
+
+## Education
+
+### Lighthouse Labs, December 2019
+
+Diploma of Web Development
+
+### Hebrew University of Jerusalem; Coursera, March 2019
+
+#### Build a Modern Computer from First Principles: From Nand to Tetris Part I
+
+Grade achieved: 100%
+
+#### Build a Modern Computer from First Principles: From Nand to Tetris Part II
+
+Grade achieved: 96.8%
