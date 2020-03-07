@@ -17,20 +17,21 @@ title: Fabio Papa – Full-Stack Web Developer
 email: me@fabiopapa.dev
 phone: +1 (778) 230-5559
 description: >- # this means to ignore newlines until "baseurl:"
-  Organized, independent, self-motivated developer with 16 years of *Ruby on
-  Rails* and front-end programming experience. Passion for communicating
-  succinctly and precisely is at the root of Fabio's ability to work well with
-  teams toward a common objective.
+  Software developer with over 15 years of experience in **full-stack** web
+  development, with a strong focus on _Ruby on Rails_ and _React_. Believes
+  deeply in finding the simplest-possible solution, and iterating over it until
+  an elegant, joy-eliciting solution emerges. Passionate about clean, readable
+  code that communicates intent, _test-driven-_ and _behavior-driven-design_,
+  and clean user interfaces.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.fabiopapa.dev" # the base hostname & protocol for your site, e.g. http://example.com
-gitlab_username:  fapapa
-github_username:  fapapa
-linkedin_username:  fabio-papa-dev
+gitlab_username: fapapa
+github_username: fapapa
+linkedin_username: fabio-papa-dev
 
 # Build settings
 markdown: kramdown
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
