@@ -85,7 +85,7 @@ user interfaces.
 
 ### Languages
 
-Ruby, JavaScript, HTML, CSS
+Ruby, JavaScript, Python, Elixir, HTML, CSS
 
 ### Frameworks, Libraries and Environments
 
