@@ -83,29 +83,49 @@ user interfaces.
 
 ## Skills
 
-### Languages
+<section id="skillz">
+  <div class="languages">
+    <h3>Languages</h3>
 
-Ruby, JavaScript, Python, Elixir, HTML, CSS
+    <p>Ruby, JavaScript, Python, Elixir, HTML, CSS</p>
 
-### Frameworks, Libraries and Environments
+  </div>
+  <div class="frameworks">
+    <h3>Frameworks, Libraries and Environments</h3>
 
-Rails, NodeJS, React, Ajax, Axios, Express, EJS, JQuery, Bootstrap,
-ActiveRecord, SASS, Docker, good understanding of HTTP request/response
-life-cycle, REST, Web Sockets
+    <p>
+      Rails, NodeJS, React, Ajax, Axios, Express, EJS, JQuery, Bootstrap,
+      ActiveRecord, SASS, Docker, good understanding of HTTP request/response
+      life-cycle, REST, Web Sockets
+    </p>
 
-### Systems, CMS && Databases
+  </div>
+  <div class="systems">
+    <h3>Systems, CMS && Databases</h3>
 
-SQL (various dialects), Git, GitFlow, Subversion, AWS, DigitalOcean, Heroku,
-Gem, Bundler, NPM, Yarn, Webpack, comfortable setting up domains and DNS records
+    <p>
+      SQL (various dialects), Git, GitFlow, Subversion, AWS, DigitalOcean,
+      Heroku, Gem, Bundler, NPM, Yarn, Webpack, comfortable setting up domains
+      and DNS records
+    </p>
 
-### Testing
+  </div>
+  <div class="testing">
+    <h3>Testing</h3>
 
-rSpec, Cucumber, Capybara, Selenium, Watir, FactoryBot, TimeCop, Mocha, Chai,
-Jest, Cypress, Storybook
+    <p>
+      rSpec, Cucumber, Capybara, Selenium, Watir, FactoryBot, TimeCop, Mocha,
+      Chai, Jest, Cypress, Storybook
+    </p>
 
-### Other Skills
+  </div>
+  <div class="other">
+    <h3>Other Skills</h3>
 
-Fluent in English and Italian, Arduino, Raspberry Pi
+    <p>Fluent in English and Italian, Arduino, Raspberry Pi</p>
+
+  </div>
+</section>
 
 ## Projects && Contributions
 
