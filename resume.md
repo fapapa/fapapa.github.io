@@ -91,7 +91,7 @@ user interfaces.
 
   </div>
   <div class="frameworks">
-    <h3>Frameworks, Libraries and Environments</h3>
+    <h3>Frameworks, Libraries, etc.</h3>
 
     <p>
       Rails, NodeJS, React, Ajax, Axios, Express, EJS, JQuery, Bootstrap,
@@ -117,12 +117,6 @@ user interfaces.
       rSpec, Cucumber, Capybara, Selenium, Watir, FactoryBot, TimeCop, Mocha,
       Chai, Jest, Cypress, Storybook
     </p>
-
-  </div>
-  <div class="other">
-    <h3>Other Skills</h3>
-
-    <p>Fluent in English and Italian, Arduino, Raspberry Pi</p>
 
   </div>
 </section>
