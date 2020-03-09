@@ -7,12 +7,7 @@ id: resume
 
 ## Summary
 
-Software developer with over 15 years of experience in **full-stack** web
-development, with a strong focus on _Ruby on Rails_ and _React_. Believes deeply
-in finding the simplest-possible solution, and iterating over it until an
-elegant, joy-eliciting solution emerges. Passionate about clean, readable code
-that communicates intent, _test-driven-_ and _behavior-driven-design_, and clean
-user interfaces.
+{{site.description}}
 
 ## Experience
 
