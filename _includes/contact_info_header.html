@@ -27,9 +27,16 @@
       </nav>
     {%- endif -%}
 
-    <ul class="contact-list">
-      <li>email: {{ site.email }}</li>
-      <li>mobile: {{ site.phone }}</li>
-    </ul>
+    <div class="contact-and-social">
+        <ul class="contact-list">
+            <li>email: {{ site.email }}</li>
+            <li>mobile: {{ site.phone }}</li>
+            <li>web: <a href="{{ site.url }}">{{ site.url }}</a></li>
+        </ul>
+
+        <div class="social">
+            {%- include social.html -%}
+        </div>
+    </div>
   </div>
 </header>
