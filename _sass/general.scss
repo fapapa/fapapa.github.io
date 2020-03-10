@@ -2,12 +2,27 @@ header .contact-and-social {
   clear: both;
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
   .social li a {
     display: flex;
     flex-direction: row-reverse;
     svg {
       padding-right: revert;
       padding-left: 5px;
+    }
+  }
+}
+
+.download {
+  margin-bottom: 25px;
+  a {
+    padding: 10px;
+    border: 1px solid $grey-color-dark;
+    border-radius: 5px;
+    &:hover {
+      text-decoration: none;
+      background-color: $grey-color-dark;
+      color: white;
     }
   }
 }
