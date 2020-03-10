@@ -27,9 +27,20 @@
       </nav>
     {%- endif -%}
 
-    <ul class="contact-list">
-      <li>email: {{ site.email }}</li>
-      <li>mobile: {{ site.phone }}</li>
-    </ul>
+    <div class="contact-and-social">
+        <ul class="contact-list">
+            <li>email: {{ site.email }}</li>
+            <li>mobile: {{ site.phone }}</li>
+            <li>web: <a href="{{ site.url }}">{{ site.url }}</a></li>
+        </ul>
+
+        <div class="download">
+            <a href="/assets/resume_fabio_papa.pdf">Download in PDF format</a>
+        </div>
+
+        <div class="social">
+            {%- include social.html -%}
+        </div>
+    </div>
   </div>
 </header>
