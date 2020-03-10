@@ -172,6 +172,9 @@ header .contact-and-social {
   }
   .site-header {
     border-top: none;
+    .download {
+      display: none;
+    }
   }
   .site-nav,
   .post-header,
