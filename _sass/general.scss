@@ -1,11 +1,10 @@
 header .contact-and-social {
   clear: both;
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   .social li a {
-    display: flex;
-    flex-direction: row-reverse;
     svg {
       padding-right: revert;
       padding-left: 5px;
@@ -13,7 +12,13 @@ header .contact-and-social {
   }
 }
 
+.contact-list,
+.social-media-list {
+  text-align: center;
+}
+
 .download {
+  order: 1;
   margin-bottom: 25px;
   a {
     padding: 10px;
@@ -153,6 +158,42 @@ header .contact-and-social {
         grid-area: source;
       }
     }
+  }
+}
+
+@media screen and (min-width: 470px) {
+  header .contact-and-social {
+    flex-direction: row;
+    align-items: left;
+    flex-wrap: wrap;
+  }
+
+  .contact-list,
+  .social-media-list {
+    text-align: left;
+  }
+
+  .download {
+    margin: 20px auto;
+  }
+
+  .contact-list {
+    text-align: left;
+  }
+
+  .social-media-list {
+    text-align: right;
+  }
+
+  .social li a {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+}
+
+@media screen and (min-width: 523px) {
+  .download {
+    order: 0;
   }
 }
 

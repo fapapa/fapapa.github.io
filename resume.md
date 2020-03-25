@@ -118,7 +118,7 @@ id: resume
 
 ## Projects && Contributions
 
-Please see my website at [fabiopapa.dev](https://www.fabiopapa.dev)
+Please see my website at [{{ site.uri }}]({{ site.uri }})
 
 ## Education
 
