@@ -14,9 +14,10 @@ id: resume
 ### Software Developer, Animikii Inc.; remote — 2020–present
 
 - Design, architect and implement major features—start-to-finish—in internal
-  products and client projects using various versions of Rails and front-end
-  languages and frameworks
-- Proactively keep everyone informed with Agile, Scrum, Kanban, daily stand-ups
+  products and client projects using Rails versions 5.x and 6.x and various
+  front-end languages and frameworks
+- Proactively keep everyone up-to-date with Agile and Scrum methodologies, with
+  Kanban and daily stand-ups
 - Develop features for Niiwin, an internal Rails product that aids in building
   admin interfaces and developing other Rails apps
 - Lead developer on project for Canadian Red Cross, using Rails and Niiwin
@@ -36,9 +37,9 @@ id: resume
 - Assessed student progress and identify students needing further attention
 - Provided guidance to students as they pick and flesh-out their mid-term and
   final projects
-- Nurtured students who were struggling, pin-pointing any foundational problems
-  that were keeping them from learning new concepts, and devised plans for them
-  to execute to get on-track
+- Nurtured students who were struggling, discovering and pin-pointing any
+  foundational problems that were keeping them from learning new concepts, and
+  devised plans for them to execute to get on-track
 - Led mock technical interviews to allow student to practice, and to further
   identify any holes in knowledge
 
