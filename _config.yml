@@ -17,12 +17,12 @@ title: Fabio Papa – Full-Stack Web Developer
 email: me@fabiopapa.dev
 phone: +1 (778) 230-5559
 description: >- # this means to ignore newlines until "baseurl:"
-  Software developer with over 15 years of experience in **full-stack** web
-  development, with a strong focus on _Ruby on Rails_ and _React_. Believes
-  deeply in finding the simplest-possible solution, and iterating over it until
-  an elegant, joy-eliciting solution emerges. Passionate about clean, readable
-  code that communicates intent, _test-driven-_ and _behavior-driven-design_,
-  and clean user interfaces.
+  Software developer with over 16 years of experience in **full-stack** web
+  development, with a strong focus on _Ruby on Rails_. Believes deeply in
+  finding the simplest-possible solution, and iterating over it until an
+  elegant, joy-eliciting solution emerges. Passionate about clean, readable code
+  that communicates intent, _test-driven-_ and _behavior-driven-design_, and
+  natural user experiences.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 uri: "https://www.fabiopapa.dev" # the base hostname & protocol for your site, e.g. http://example.com
