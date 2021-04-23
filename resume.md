@@ -16,18 +16,18 @@ id: resume
 - Design, architect and implement major features—start-to-finish—in internal
   products and client projects using various versions of Rails and front-end
   languages and frameworks
+- Proactively keep everyone informed with Agile, Scrum, Kanban, daily stand-ups
 - Develop features for Niiwin, an internal Rails product that aids in building
   admin interfaces and developing other Rails apps
 - Lead developer on project for Canadian Red Cross, using Rails and Niiwin
-- Primary point of contact for two developers in on-boarding process
 - Championed switching Git strategies company-wide to GitLab Flow to give the
   greatest flexibility with team size and CI/CD strategies
 - Championed instituting a _pull request template_ for all company repos to
   cheaply increase code quality and decrease _code-review ping-pong_
-- Awarded ceremonial drum for being a team player, encouraging others, and
-  exemplifying company values
 - Spearhead a collaborative project with First Nations Technology Council,
   leading five other developers in mentoring Indigenous youth
+- Awarded ceremonial drum for being a team player, encouraging others, and
+  exemplifying company values
 
 ### Mentor, Lighthouse Labs; Vancouver, BC — 2020
 
@@ -39,7 +39,7 @@ id: resume
 - Nurtured students who were struggling, pin-pointing any foundational problems
   that were keeping them from learning new concepts, and devised plans for them
   to execute to get on-track
-- Lead mock technical interviews to allow student to practice, and to further
+- Led mock technical interviews to allow student to practice, and to further
   identify any holes in knowledge
 
 ### Freelance Developer, Self-Employed; Coquitlam, BC — 2004–2019
