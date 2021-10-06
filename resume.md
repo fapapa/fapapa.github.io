@@ -13,24 +13,23 @@ id: resume
 
 ### Software Developer, Animikii Inc.; remote — 2020–present
 
-- Design, architect and implement major features—start-to-finish—in internal
-  products and client projects using Rails versions 5.x and 6.x and various
-  front-end languages and frameworks
-- Proactively keep everyone up-to-date with Agile and Scrum methodologies, with
-  Kanban and daily stand-ups
-- Develop features for Niiwin, an internal Rails product that aids in building
-  admin interfaces and developing other Rails apps
-- Lead developer on project for Canadian Red Cross, using Rails and Niiwin
-- Championed switching Git strategies company-wide to GitLab Flow to give the
+- Successfully lead the development of key project for the Canadian Red Cross
+- Collaborate to develop flagship product: a Rails engine that aids in low-code
+  development of Rails apps
+- Design, architect and implement major features — start-to-finish — in internal
+  products and client projects using Rails and various front-end languages and
+  frameworks
+- Take ownership of assigned projects/tasks and proactively report on progress
+  to stakeholders
+- Help develop company-wide coding best-practices and standards
+- Champion switching Git strategies company-wide to GitLab Flow to give the
   greatest flexibility with team size and CI/CD strategies
-- Championed instituting a _pull request template_ for all company repos to
-  cheaply increase code quality and decrease _code-review ping-pong_
 - Spearhead a collaborative project with First Nations Technology Council,
   leading five other developers in mentoring Indigenous youth
-- Awarded ceremonial drum for being a team player, encouraging others, and
-  exemplifying company values
+- Awarded ceremonial drum (by peers) for being a team player, encouraging
+  others, and exemplifying company values
 
-### Mentor, Lighthouse Labs; Vancouver, BC — 2020
+### Mentor and T.A., Lighthouse Labs; Vancouver, BC — 2020
 
 - Assisted cohorts with debugging, code reviews, explanation, and exploration of
   programming topics
@@ -43,7 +42,9 @@ id: resume
 - Led mock technical interviews to allow student to practice, and to further
   identify any holes in knowledge
 
-### Freelance Developer, Self-Employed; Coquitlam, BC — 2004–2019
+<h3 id="freelance-developer-self-employed-coquitlam-bc--20042019" style="page-break-before: always;">
+  Freelance Developer, Self-Employed; Coquitlam, BC — 2004–2019
+</h3>
 
 - Architected and maintained Ruby on Rails applications
 - Championed use of user stories with non-technical stakeholders
@@ -71,9 +72,6 @@ id: resume
 
 ### Procurement Specialist, Long View Systems; Vancouver, BC — 2015–2017
 
-- Earned a place on the Cisco Procurement team in addition to General
-  Procurement team through proven attention to detail and ability to manage time
-  well
 - Collaborated with Account Managers, Project Managers, Consultants,
   manufacturers, logistics and more to successfully win and manage multi-million
   dollar deals
